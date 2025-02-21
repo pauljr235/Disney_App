@@ -1,5 +1,6 @@
 import Devices from './components/Devices'
 import Downloads from './components/Downloads'
+import FAQ from './components/Faq'
 import Hero from './components/Hero'
 import Plans from './components/Plans'
 import Shows from './components/Shows'
@@ -16,6 +17,7 @@ function App() {
       <Watch />
       <Downloads />
       <Devices />
+      <FAQ />
     </>
   )
 }

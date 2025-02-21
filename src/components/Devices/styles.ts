@@ -7,7 +7,7 @@ export const DevicesContainer = styled.div`
   margin: 0 auto; /* Centraliza o container */
   color: ${cores.branco};
   padding-top: 30px;
-  padding-bottom: 150px;
+
   align-items: center;
   h3 {
     padding-bottom: 32px;
