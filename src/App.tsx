@@ -1,3 +1,4 @@
+import Devices from './components/Devices'
 import Downloads from './components/Downloads'
 import Hero from './components/Hero'
 import Plans from './components/Plans'
@@ -14,6 +15,7 @@ function App() {
       <Plans />
       <Watch />
       <Downloads />
+      <Devices />
     </>
   )
 }

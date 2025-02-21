@@ -3,6 +3,7 @@ import { cores } from '../../styles'
 
 export const DownloadsContainer = styled.div`
   position: relative;
+  padding: 100px 0;
 `
 
 export const DownloadsInfo = styled.div`
