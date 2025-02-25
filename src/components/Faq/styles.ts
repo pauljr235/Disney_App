@@ -4,7 +4,7 @@ import { cores } from '../../styles'
 export const FAQContainer = styled.div`
   text-align: center;
   color: white;
-  padding-bottom: 300px;
+  padding-bottom: 100px;
   width: 100%;
 `
 
